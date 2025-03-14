@@ -60,7 +60,8 @@ public class Rotate : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/5200864c-47bb-4e87-aacb-d01fc667a46e)
+![image](https://github.com/user-attachments/assets/860e0737-ab2b-4ac6-91b8-37ea0d6b0675)
+
 
 ## Result:
 
